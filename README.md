@@ -7,3 +7,8 @@ samha  - GUI
        -marks2
        -marks3
         -clear
+
+Asna  -Results
+      -Highest Marks
+      -Lowest Marks
+      -Message
