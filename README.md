@@ -1,3 +1,4 @@
 # FOP-PROJECT
-aadhila - 
-Samqq - 
+aadhila - Total  label & textfeild
+        - Average  label & textfeild
+        -Grade    label& textfeild
