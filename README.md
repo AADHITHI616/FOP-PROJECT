@@ -12,3 +12,7 @@ Asna  -Results
       -Highest Marks
       -Lowest Marks
       -Message
+
+munshifa - Marks 4
+         - Marks 5
+         - Calculate 
