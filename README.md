@@ -16,3 +16,7 @@ Asna  -Results
 munshifa - Marks 4
          - Marks 5
          - Calculate 
+
+Samla  - Students Name 
+       - Marks 1
+       - Exit 
